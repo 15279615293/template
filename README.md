@@ -1,8 +1,8 @@
 # 安装
 
 ```shell
-$ git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
-$ cd NeteaseCloudMusicApi
+$ git clone https://github.com/15279615293/template.git
+$ cd template
 $ npm install
 ```
 
