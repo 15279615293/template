@@ -1,0 +1,4 @@
+
+interface LoginItf{
+    token:string
+}
