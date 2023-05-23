@@ -59,12 +59,11 @@ const handleClick = (path: string) => {
 <style scoped>
 .home {
     width: 100%;
-    height: 100vh;
 }
 
 .home .content {
     width: 100%;
-    height: calc(100vh - 70px);
+    height: 100%;
 }
 
 .box-card {
