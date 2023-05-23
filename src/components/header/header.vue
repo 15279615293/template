@@ -78,7 +78,9 @@ const exitLogin=()=>{
     background: #1493fa;
     display: flex;
     align-items: center;
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
 
 .header img {
