@@ -56,6 +56,8 @@ watch(()=>props.nowPath,(a)=>{
 .menu {
     height: calc(100vh - 70px);
     float: left;
+    position: sticky;
+    top: 70px;
 }
 .el-menu-vertical-demo:not(.el-menu--collapse) {
   width: 200px;
